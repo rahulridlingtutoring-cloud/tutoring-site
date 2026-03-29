@@ -18,7 +18,7 @@ export default function App() {
       {/* HERO */}
       <section className="text-center py-24 px-6 bg-gradient-to-r from-blue-900 to-blue-600 text-white">
         <h2 className="text-4xl font-bold mb-4">
-          99.95 ATAR \ State Rank 9th in Chemistry & Physics
+          99.95 ATAR / State Rank 9th in Chemistry & Physics
         </h2>
         <p className="text-lg mb-6">
           Online HSC tutoring for Year 11 & 12 students aiming for Band 6 results.
