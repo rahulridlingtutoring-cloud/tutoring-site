@@ -78,11 +78,11 @@ export default function App() {
         <div className="flex justify-center gap-6 flex-wrap">
           <div className="bg-white p-8 rounded-2xl shadow w-72">
             <h3 className="text-xl font-semibold mb-2">1-on-1</h3>
-            <p className="text-2xl font-bold">$80/hr</p>
+            <p className="text-2xl font-bold">$120/hr</p>
           </div>
           <div className="bg-white p-8 rounded-2xl shadow w-72">
             <h3 className="text-xl font-semibold mb-2">Group</h3>
-            <p className="text-2xl font-bold">$50/hr</p>
+            <p className="text-2xl font-bold">$65/hr</p>
           </div>
         </div>
       </section>
@@ -103,7 +103,7 @@ export default function App() {
 
       {/* FOOTER */}
       <footer className="text-center py-4 bg-blue-950 text-white">
-        © 2026 Elite HSC Tutoring
+        © 2026 Vector and Valence Tutoring. All rights reserved.
       </footer>
     </div>
   );
