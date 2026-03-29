@@ -5,7 +5,7 @@ export default function App() {
     <div className="font-sans bg-slate-50 text-gray-900">
       {/* NAVBAR */}
       <header className="flex justify-between items-center px-8 py-4 bg-blue-900 text-white">
-        <h1 className="text-xl font-bold">Elite HSC Tutoring</h1>
+        <h1 className="text-xl font-bold">Vector and Valence</h1>
         <nav className="space-x-6">
           <a href="#" className="hover:underline">Home</a>
           <a href="#subjects" className="hover:underline">Subjects</a>
@@ -18,7 +18,7 @@ export default function App() {
       {/* HERO */}
       <section className="text-center py-24 px-6 bg-gradient-to-r from-blue-900 to-blue-600 text-white">
         <h2 className="text-4xl font-bold mb-4">
-          99.95 ATAR \n State Rank 9th in Chemistry & Physics
+          99.95 ATAR \ State Rank 9th in Chemistry & Physics
         </h2>
         <p className="text-lg mb-6">
           Online HSC tutoring for Year 11 & 12 students aiming for Band 6 results.
