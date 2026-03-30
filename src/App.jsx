@@ -24,7 +24,7 @@ export default function App() {
           Online HSC tutoring for Year 11 & 12 students aiming for Band 6 results.
         </p>
         <button className="bg-white text-blue-900 px-6 py-3 rounded-xl font-semibold shadow">
-          Book Free Consultation
+          Waitlist Open
         </button>
       </section>
 
