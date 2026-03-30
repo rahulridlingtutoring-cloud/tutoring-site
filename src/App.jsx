@@ -91,14 +91,14 @@ export default function App() {
       <section id="contact" className="bg-blue-900 text-white py-16 px-8 text-center">
         <h2 className="text-3xl font-bold mb-4">Contact</h2>
         <p className="mb-6">rahul.ridling.tutoring@gmail.com / 0412837787</p>
-        <form className="max-w-md mx-auto space-y-4">
+        {/*<form className="max-w-md mx-auto space-y-4">
           <input className="w-full p-3 rounded text-black" placeholder="Name" />
           <input className="w-full p-3 rounded text-black" placeholder="Email" />
           <textarea className="w-full p-3 rounded text-black" placeholder="Message" />
           <button className="bg-white text-blue-900 px-6 py-3 rounded-xl font-semibold w-full">
             Send
           </button>
-        </form>
+        </form>*/}
       </section>
 
       {/* FOOTER */}
