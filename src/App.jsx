@@ -90,7 +90,7 @@ export default function App() {
       {/* CONTACT */}
       <section id="contact" className="bg-blue-900 text-white py-16 px-8 text-center">
         <h2 className="text-3xl font-bold mb-4">Contact</h2>
-        <p className="mb-6">yourname@email.com</p>
+        <p className="mb-6">rahul.ridling.tutoring@gmail.com / 0412837787</p>
         <form className="max-w-md mx-auto space-y-4">
           <input className="w-full p-3 rounded text-black" placeholder="Name" />
           <input className="w-full p-3 rounded text-black" placeholder="Email" />
